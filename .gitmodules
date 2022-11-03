@@ -1,0 +1,4 @@
+[submodule "voylins_life/public"]
+	path = voylins_life/public
+	url = git@github.com:voylin/voylin.github.io.git
+	branch = master

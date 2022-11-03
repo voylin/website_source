@@ -1,0 +1,8 @@
+baseURL = 'http://voylin.github.io/'
+languageCode = 'en-us'
+title = "Voylin's Life"
+theme = 'my_theme'
+googleAnalytics = 'G-15YVCH6129'
+
+[params]
+  description = "Voylin's Life site - A site about Japanese, Japan, and our life living in Japan."
