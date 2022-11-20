@@ -1,7 +1,6 @@
 baseURL = 'https://www.voylinslife.com/'
 languageCode = 'en-us'
 title = "Voylin's Life"
-theme = 'my_theme'
 googleAnalytics = 'G-15YVCH6129'
 paginate = 20
 
