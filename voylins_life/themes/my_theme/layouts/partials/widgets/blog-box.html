@@ -1,0 +1,23 @@
+<div class="post-block">
+  {{ if .Params.image }}
+    <a href="{{ .Permalink }}"><img src="{{ .Params.image }}" alt="{{ .Title }} post image"></a>
+  {{ end }}
+  <br>
+  <div class="post-block-info" >
+    <a href="{{ .Permalink }}" class="post-block-info-title"><b>{{ .Title }}</b></a><br>
+    <p class="metadata"><i class="far fa-calendar-alt" >&nbsp;{{ .Date.Format "2006-01-02" }}</i>
+    {{ if (.Params.categories) }}
+      &nbsp;-&nbsp;
+      <i class="far fa-folder-open"></i>&nbsp;
+      {{ range $idx, $category := .Params.categories }}
+        {{- if ne $idx 0 }}, {{ end }}<a href="/categories/{{ . | urlize}}">{{ . }}</a>
+      {{ end }}
+    {{ end }}
+    </p>
+    {{ if gt (len .Description) 200 }}
+      <p>{{ slicestr .Description 0 200 }}&nbsp;&nbsp;<a href="{{ .Permalink }}">Read more</a></p>
+    {{ else }}
+      <p>{{ .Description }}&nbsp;&nbsp;<a href="{{ .Permalink }}">[...] Read more</a></p>
+    {{ end }}
+  </div>
+</div>

@@ -1,0 +1,15 @@
+{{ define "main" }}
+<div>
+  <h1>{{ .Title }}</h1>
+  <p><a href="/blog/"><b>Back to categories</b></a></p>
+    <div class="list-block">
+      <!-- - range where .Site.RegularPages.ByDate.Reverse "Type" "posts" - -->
+      {{ range .Paginator.Pages.ByDate.Reverse }}
+        {{ if (ne (.Date.Format "2006-01-02") "0001-01-01") }}
+          {{ partial "widgets/blog-box.html" . }}
+        {{ end }}
+      {{ end }}
+    </div>
+    {{ template "_internal/pagination.html" . }}
+</div>
+{{ end }}

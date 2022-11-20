@@ -1,8 +1,75 @@
-baseURL = 'http://voylin.github.io/'
+baseURL = 'https://www.voylinslife.com/'
 languageCode = 'en-us'
 title = "Voylin's Life"
 theme = 'my_theme'
 googleAnalytics = 'G-15YVCH6129'
+paginate = 20
 
 [params]
   description = "Voylin's Life site - A site about Japanese, Japan, and our life living in Japan."
+
+[taxonomies]
+  category = 'categories'
+  tag = 'tags'
+  series = 'series'
+
+[permalinks]
+  
+
+[markup.goldmark.renderer]
+unsafe = true
+
+[markup.goldmark.parser.attribute]
+block = true
+title = true
+
+[[menu.main]]
+  name = 'Blog'
+  url = '/blog'
+  weight = 1
+
+[[menu.main]]
+  name = 'Who we are'
+  url = '/about_us'
+  weight = 2
+
+[[menu.main]]
+  name = 'Contact us'
+  url = '/contact_us'
+  weight = 3
+
+[[menu.social]]
+  name = 'Youtube'
+  url = 'https://youtube.com/voylin'
+  pre = "<i class='fab fa-youtube'></i>"
+  weight = 1
+
+[[menu.social]]
+  name = 'Instagram'
+  url = 'https://www.instagram.com/voylinslife/'
+  pre = "<i class='fab fa-instagram'></i>"
+  weight = 2
+
+## [[menu.social]]
+#  name = 'Github'
+#  url = 'https://github.com/voylin'
+#  pre = "<i class='fab fa-github'></i>"
+#  weight = 3
+#
+#[[menu.social]]
+#  name = 'Facebook'
+#  url = 'https://www.facebook.com/voylinslife'
+#  pre = "<i class='fab fa-facebook'></i>"
+#  weight = 4
+#
+#[[menu.social]]
+#  name = 'Twitter'
+#  url = 'https://twitter.com/voylinslife'
+#  pre = "<i class='fab fa-twitter'></i>"
+#  weight = 5
+#
+#[[menu.social]]
+#  name = 'Twitch'
+#  url = 'https://www.twitch.tv/voylin'
+#  pre = "<i class='fab fa-twitch'></i>"
+#  weight = 6

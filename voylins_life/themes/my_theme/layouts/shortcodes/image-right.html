@@ -1,0 +1,6 @@
+<div class="image-right">
+  <img src="{{ .Get "src" }}" alt="{{ .Get "alt" }}" width="{{ .Get "width"}}">
+  {{ if .Get "text"}}
+    <p class="image-text"><i>{{ .Get "text" }}{{ if .Get "text2"}}<br>{{ .Get "text2" }}{{ end }}</i></p>
+  {{ end }}
+</div>

@@ -1,0 +1,9 @@
+{{ define "main" }}
+<div>
+  <h1>{{ .Title }}</h1>
+  {{ .Content }}
+  {{- range where .Site.RegularPages.ByDate.Reverse "Type" "posts" -}}
+    <a href="{{ .Permalink }}">{{ .Date.Format "2006-01-02" }} > &nbsp{{ .Title }}</a><br>
+  {{ end }}
+</div>
+{{ end }}

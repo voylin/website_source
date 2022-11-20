@@ -1,0 +1,5 @@
+{{ if (.Get "text") }}
+<a href="{{ .Get "url" }}">{{ .Get "text" }}</a>
+{{ else }}
+<a href="{{ .Get "url" }}">{{ .Get "url" }}</a>
+{{ end }}

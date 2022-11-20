@@ -1,9 +1,18 @@
 ---
 title: "{{ replace .Name "-" " " | title }}"
-date: {{ .Date }}
+date: "{{ now.Format "2006-01-02" }}"
 description: "Basic description"
-images:
-  - /url/of/image.extension
+image: /images/posts/
+categories:
+  - Voylin's Life
+  - Our Life
+  - Learn Japanese
+  - Travel Advice
+  - 日本語で
+tags:
+  - tag1
+series: 
+video_url:
 draft: true
 ---
 

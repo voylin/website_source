@@ -1,0 +1,2 @@
+{{ $video_url := .Get "video_url" }}
+{{ partial "widgets/yt-video.html" (dict "video_url" $video_url) }}

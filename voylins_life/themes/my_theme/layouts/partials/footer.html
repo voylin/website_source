@@ -1,0 +1,14 @@
+<footer>
+  <div id="footer_menu" class="text-center">
+    <div id="bottom_social">
+      {{ range sort .Site.Menus.social ".Weight" }}
+        <a href="{{ .URL }}" title="{{ .Name }}">
+          <span>{{ .Pre }}</span>
+        </a>
+      {{ end }}
+    </div>
+  </div>
+  <div id="footer_info" class="text-center">
+    <p>Made by Voylin from <a href="https://youtube.com/voylin" title="Voylin's Life">Voylin's Life</a></p>
+  </div>
+</footer>
