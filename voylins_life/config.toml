@@ -23,6 +23,11 @@ block = true
 title = true
 
 [[menu.main]]
+  name = 'Welcome!'
+  url = '/'
+  weight = 0
+
+[[menu.main]]
   name = 'Blog'
   url = '/blog'
   weight = 1
@@ -37,6 +42,31 @@ title = true
   url = '/contact_us'
   weight = 3
 
+[[menu.blog]]
+  name = 'Learn Japanese'
+  url = '/categories/learn-japanese/'
+  weight = 1
+
+[[menu.blog]]
+  name = 'Our life'
+  url = '/categories/our-life/'
+  weight = 2
+
+[[menu.blog]]
+  name = 'Travel advice'
+  url = '/categories/travel-advice/'
+  weight = 3
+
+[[menu.blog]]
+  name = "Voylin's life"
+  url = '/categories/voylins-life/'
+  weight = 4
+
+[[menu.blog]]
+  name = '日本語で'
+  url = '/categories/日本語で/'
+  weight = 5
+
 [[menu.social]]
   name = 'Youtube'
   url = 'https://youtube.com/voylin'
@@ -49,26 +79,26 @@ title = true
   pre = "<i class='fab fa-instagram'></i>"
   weight = 2
 
-## [[menu.social]]
-#  name = 'Github'
-#  url = 'https://github.com/voylin'
-#  pre = "<i class='fab fa-github'></i>"
-#  weight = 3
-#
-#[[menu.social]]
-#  name = 'Facebook'
-#  url = 'https://www.facebook.com/voylinslife'
-#  pre = "<i class='fab fa-facebook'></i>"
-#  weight = 4
-#
-#[[menu.social]]
-#  name = 'Twitter'
-#  url = 'https://twitter.com/voylinslife'
-#  pre = "<i class='fab fa-twitter'></i>"
-#  weight = 5
-#
-#[[menu.social]]
-#  name = 'Twitch'
-#  url = 'https://www.twitch.tv/voylin'
-#  pre = "<i class='fab fa-twitch'></i>"
-#  weight = 6
+[[menu.social]]
+  name = 'Github'
+  url = 'https://github.com/voylin'
+  pre = "<i class='fab fa-github'></i>"
+  weight = 3
+
+[[menu.social]]
+  name = 'Facebook'
+  url = 'https://www.facebook.com/voylinslife'
+  pre = "<i class='fab fa-facebook'></i>"
+  weight = 4
+
+[[menu.social]]
+  name = 'Twitter'
+  url = 'https://twitter.com/voylinslife'
+  pre = "<i class='fab fa-twitter'></i>"
+  weight = 5
+
+[[menu.social]]
+  name = 'Twitch'
+  url = 'https://www.twitch.tv/voylin'
+  pre = "<i class='fab fa-twitch'></i>"
+  weight = 6
