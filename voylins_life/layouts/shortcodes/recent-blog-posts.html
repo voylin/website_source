@@ -1,0 +1,5 @@
+<div class="list-block">
+  {{ range ( where site.RegularPages "Section" "posts" | first 40 ) }}
+    {{ partial "widgets/blog-box.html" . }}
+  {{ end }}
+</div>

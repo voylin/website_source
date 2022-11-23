@@ -8,4 +8,5 @@ title: "Homepage"
 {.text-center}
 
 # Our posts:
-Coming soon
+
+{{< recent-blog-posts >}}

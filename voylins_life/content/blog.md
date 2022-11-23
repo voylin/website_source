@@ -14,4 +14,6 @@ I hope you enjoy your stay! ;)
 # [Show all articles](/posts/)
 
 # Some recent articles:
-TODO - Show the 40 most recent articles
+
+{{< recent-blog-posts >}}
+

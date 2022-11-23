@@ -18,7 +18,7 @@
     {{ end }}
     {{ .Content }}
   </article>
-  <br><hr>
+  <br><br><hr>
   <div id="prev-next-box">
     <p id="prev-post-button">
       {{ with .PrevInSection }}
@@ -34,5 +34,13 @@
     </p>
   </div>
   <hr>
+  <br><br>
+  <h1>Other posts you may like:</h1>
+  <div class="list-block">
+    {{ range first 8 (shuffle (where (where .Site.RegularPages "Section" "posts") "Title" "!=" .Title )) }}
+      {{ partial "widgets/blog-box.html" . }}
+    {{ end }}
+  </div>
+  <br>
 </section>
 {{ end }}
