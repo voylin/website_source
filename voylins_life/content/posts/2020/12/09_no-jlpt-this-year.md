@@ -5,10 +5,6 @@ description: "A loot has been happening in this year. Because of those things, I
 image: /images/posts/2020/12/Bad-News.webp
 categories:
   - Voylin's Life
-tags:
-  - JLPT
-  - No JLPT
-  - bad news
 video_url: S5ljvjsBG_c
 ---
 # I am not taking the JLPT this year

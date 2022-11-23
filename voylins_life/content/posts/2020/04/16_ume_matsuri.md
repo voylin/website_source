@@ -7,10 +7,6 @@ categories:
   - Voylin's Life
   - Our Life
   - Travel Advice
-tags:
-  - Sakura
-  - Ume
-  - Ume Matsuri
 video_url: NETdVobOXEU
 ---
 

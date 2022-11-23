@@ -5,9 +5,6 @@ description: "The whole move to Japan went smooth, until the paperwork started. 
 image: /images/posts/2020/03/first-month-in-Japan.webp
 categories:
   - Our Life
-tags:
-  - first month japan
-  - Living in Japan
 ---
 
 # Visa trouble

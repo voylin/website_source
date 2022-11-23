@@ -6,10 +6,6 @@ image: /images/posts/2020/04/All-JLPT-N4-Grammar.webp
 categories:
   - Voylin's Life
   - Learn Japanese
-tags:
-  - quick japanese
-  - grammar
-  - Japanese grammar
 series:
   - Quick Japanese
 video_url: ex4NR8drZF4

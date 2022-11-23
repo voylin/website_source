@@ -6,10 +6,6 @@ image: /images/posts/2016/02/4-most-common-travel-scams.webp
 categories:
   - Voylin's Life
   - Travel Advice
-tags:
-  - scams
-  - travel scams
-  - travel advice
 video_url: mG20CROKlGc
 ---
 

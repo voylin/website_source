@@ -6,10 +6,6 @@ image: /images/posts/2020/01/4-years-learning-japanese.webp
 categories:
   - Voylin's Life
   - Learn Japanese
-tags:
-  - Japanese
-  - Learning Japanese
-  - Japanese learning journey
 video_url: sJyRILRiNoE
 ---
 

@@ -6,11 +6,6 @@ image: /images/posts/2016/01/Budgeting-while-backpacking.webp
 categories:
   - Voylin's Life
   - Travel Advice
-tags:
-  - budgeting
-  - backpacking
-  - budget
-  - traveling on a budget
 video_url: wjKqi9hgNz4
 ---
 

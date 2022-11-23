@@ -6,11 +6,6 @@ image: /images/posts/2016/01/japan-advice-2.webp
 categories:
   - Voylin's Life
   - Travel Advice
-tags:
-  - Japan
-  - Travel advice
-  - Japan travel advice
-  - Japan travel
 video_url: 2iNu_5gOQtA
 ---
 

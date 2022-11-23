@@ -6,11 +6,6 @@ image: /images/posts/2016/01/sleeping-on-a-plane.webp
 categories:
   - Voylin's Life
   - Travel Advice
-tags:
-  - planes
-  - sleeping
-  - Traveling by plane
-  - How sleep on a plane
 video_url: Sa4_Hdp1Ipk
 ---
 

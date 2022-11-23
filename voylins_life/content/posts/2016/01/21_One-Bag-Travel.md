@@ -6,10 +6,6 @@ image: /images/posts/2016/01/One-bag-travel.webp
 categories:
   - Voylin's Life
   - Travel Advice
-tags:
-  - backpacking
-  - one bag travel
-  - backpack travel
 video_url: g5aa9IzlfrE
 ---
 

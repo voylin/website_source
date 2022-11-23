@@ -6,9 +6,6 @@ image: /images/posts/2016/05/First-trip-to-Japan.webp
 categories:
   - Voylin's Life
   - Travel Advice
-tags:
-  - Japan
-  - Travel Japan
 video_url: wy-TqaOCTI0
 ---
 

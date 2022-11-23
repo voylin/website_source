@@ -5,9 +5,6 @@ description: "Thank you for visiting our website, I am Voylin's wife who will be
 image: /images/posts/2021/09/Voylins-Wife.webp
 categories:
   - Our Life
-tags:
-  - Wife
-  - Voylin's wife
 ---
 
 **Thank you for visiting our website.**

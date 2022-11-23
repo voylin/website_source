@@ -9,8 +9,7 @@ paginate = 20
 
 [taxonomies]
   category = 'categories'
-  tag = 'tags'
-  series = 'series'
+  series = "series"
 
 [permalinks]
   

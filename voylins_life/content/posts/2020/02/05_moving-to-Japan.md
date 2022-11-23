@@ -5,11 +5,6 @@ description: "After having studied Japanese for 4 years (which is not enough at 
 image: /images/posts/2020/02/moving-to-Japan.webp
 categories:
   - Voylin's Life
-tags:
-  - moving
-  - Japan
-  - Moving to Japan
-  - Moving abroad
 video_url: RpwvAzv8_84
 ---
 
