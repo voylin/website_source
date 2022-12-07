@@ -1,7 +1,7 @@
 ---
 title: "4 Most Common Travel Scams"
 date: "2016-02-03"
-description: "Basic description"
+description: "Whilst traveling, there’s nothing worse than falling into a scam and possibly losing a lot of money, ruining your vacations or in the worst case, getting stuck abroad because you have nothing left to afford your way back home nor contact home."
 image: /images/posts/2016/02/4-most-common-travel-scams.webp
 categories:
   - Voylin's Life
