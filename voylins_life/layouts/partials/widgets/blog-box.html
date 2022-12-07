@@ -14,10 +14,6 @@
       {{ end }}
     {{ end }}
     </p>
-    {{ if gt (len .Description) 200 }}
-      <p>{{ slicestr .Description 0 200 }}&nbsp;&nbsp;<a href="{{ .Permalink }}">Read more</a></p>
-    {{ else }}
-      <p>{{ .Description }}&nbsp;&nbsp;<a href="{{ .Permalink }}">[...] Read more</a></p>
-    {{ end }}
+    <p>{{ .Description }}&nbsp;&nbsp;<a href="{{ .Permalink }}">[...] Read more</a></p>
   </div>
 </div>
