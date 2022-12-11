@@ -1,7 +1,7 @@
 ---
 title: "Check Your Blood - Travel advice"
 date: "2016-06-09"
-description: "Basic description"
+description: "It's not only important to check your blood before traveling, it is something which should be checked regularly. Once a year is advised by doctors. Here in Japan (where I live now) we need a medical check once a year, which is probably like this in most countries. During this check they also take some of your blood to see if your sugar or cholesterol has been too high. But it can also show other problems which you may not be aware of yet."
 image: /images/posts/2016/06/check-your-blood.webp
 categories:
   - Voylin's Life

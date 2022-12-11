@@ -1,7 +1,7 @@
 ---
 title: "Planning a trip tips - Backpacking tips"
 date: 2016-01-04
-description: "As a backpacker, planning can be quite necesarry to not end up in uncomfortable situations."
+description: "As a backpacker, planning can be quite necessary to not end up in uncomfortable situations."
 image: /images/posts/2016/01/Planning-your-trip.webp
 categories:
   - Voylin's Life

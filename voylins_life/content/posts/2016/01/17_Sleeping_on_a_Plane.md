@@ -1,7 +1,7 @@
 ---
 title: "Sleeping on a plane"
 date: "2016-01-17"
-description: "Planes are probably one of the most annoying thinjgs when travelling as you can never get enough sleep on them. Let's talk about methods to improve your sleeping experience."
+description: "Planes are probably one of the most annoying things when traveling as you can never get enough sleep on them. Let's talk about methods to improve your sleeping experience."
 image: /images/posts/2016/01/sleeping-on-a-plane.webp
 categories:
   - Voylin's Life

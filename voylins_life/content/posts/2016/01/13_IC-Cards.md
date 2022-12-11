@@ -1,7 +1,7 @@
 ---
 title: "IC Cards"
 date: "2016-01-13"
-description: "An IC card is really a need when travelling in Japan as it makes public transportation a lot easier and more stress free."
+description: "An IC card is really a need when traveling in Japan as it makes public transportation a lot easier and more stress free."
 image: /images/posts/2016/01/ic-cards.webp
 categories:
   - Voylin's Life

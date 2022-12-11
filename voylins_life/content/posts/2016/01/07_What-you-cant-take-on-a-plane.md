@@ -1,7 +1,7 @@
 ---
 title: "What you can't take on a plane"
 date: "2016-01-07"
-description: "When travelling by plane, there is always a slight fear if something will be wrong with your luggage or not."
+description: "When traveling by plane, there is always a slight fear if something will be wrong with your luggage or not."
 image: /images/posts/2016/01/Airport-Luggage.webp
 categories:
   - Voylin's Life

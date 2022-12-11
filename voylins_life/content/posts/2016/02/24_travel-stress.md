@@ -1,7 +1,7 @@
 ---
 title: "Travel Stress"
 date: "2016-02-24"
-description: "First time traveling completely solo to Japan."
+description: "Traveling can be quite be stressful, especially for those traveling alone. Travel stress is the feeling of anxiety or discomfort that can occur when planning, preparing for, and experiencing a trip. It can be caused by a variety of factors, including uncertainty about the destination, fear of the unknown, and the logistics of traveling on your own."
 image: /images/posts/2016/02/travel-stress.webp
 categories:
   - Voylin's Life
@@ -18,7 +18,7 @@ Here is a playlist of all videos of this solo trip and the blog post:
 
 # What is travel stress?
 
-Traveling can be an exciting and rewarding experience, but it can also be stressful, especially for those traveling alone. Travel stress is the feeling of anxiety or discomfort that can occur when planning, preparing for, and experiencing a trip. It can be caused by a variety of factors, including uncertainty about the destination, fear of the unknown, and the logistics of traveling on your own.
+Traveling can be quite be stressful, especially for those traveling alone. Travel stress is the feeling of anxiety or discomfort that can occur when planning, preparing for, and experiencing a trip. It can be caused by a variety of factors, including uncertainty about the destination, fear of the unknown, and the logistics of traveling on your own.
 
 For most people the biggest stress factor is because they need to leave their comfort zone. I always get a little stressed when leaving my comfort zone, but once I got out, I feel free and gone is the stress.
 
