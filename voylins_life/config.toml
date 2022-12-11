@@ -5,7 +5,7 @@ googleAnalytics = 'G-15YVCH6129'
 paginate = 20
 
 [params]
-  description = "Voylin's Life site - A site about Japanese, Japan, and our life living in Japan."
+  description = "Voylin's Life site - A site about Japanese, Japan, and our adventures of living in Japan."
 
 [taxonomies]
   category = 'categories'
