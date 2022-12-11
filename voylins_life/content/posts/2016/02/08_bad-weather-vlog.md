@@ -2,7 +2,7 @@
 title: "Bad Weather Vlog"
 date: "2016-02-08"
 description: "I've got bored of staying inside because of the bad weather so I decided to work more on the drawing on my door. Of course there are multiple other things you can do when it's rainy weather, I just chose to be creative, here are some other things which you may consider doing."
-image: /images/posts/2016/01/bad-weather.webp
+image: /images/posts/2016/02/bad-weather.webp
 categories:
   - Voylin's Life
 video_url: https://youtu.be/8vKGMkeDkoA
@@ -10,7 +10,8 @@ video_url: https://youtu.be/8vKGMkeDkoA
 
 # Am I an artist now?
 
-Vlog 3 - Bad weather = being creative
+*Vlog 3 - Bad weather = being creative*
+
 I've got bored of staying inside because of the bad weather so I decided to work more on the drawing on my door. Of course there are multiple other things you can do when it's rainy weather, I just chose to be creative, here are some other things which you may consider doing:
 
 1. Watch a movie or TV show;

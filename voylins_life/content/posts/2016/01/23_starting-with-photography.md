@@ -1,8 +1,7 @@
 ---
 title: "Starting With Photography"
 date: "2016-01-23"
-description: "Today I wanted to try out photography, to see how good or how bad I am xp
-I had these pictures saved somewhere but I lost them sadly enough. ^^" Ohwell, look on my instagram if you want to see if my skills became any better hahah."
+description: "Today I wanted to try out photography, to see how good or how bad I am xp I had these pictures saved somewhere but I lost them sadly enough. ^^' Oh well, look on my instagram if you want to see if my skills became any better hahah."
 image: /images/posts/2016/01/photography.webp
 categories:
   - Voylin's Life
@@ -11,8 +10,7 @@ video_url: https://youtu.be/nEH-62mjJHk
 
 # Starting with photography
 
-Today I wanted to try out photography, to see how good or how bad I am xp
-I had these pictures saved somewhere but I lost them sadly enough. ^^" Ohwel, look on my instagram if you want to see if my skills became any better hahah.
+Today I wanted to try out photography, to see how good or how bad I am xp I had these pictures saved somewhere but I lost them sadly enough. ^^" Oh wel, look on my instagram if you want to see if my skills became any better hahah.
 
 I've had to learn quite a few things and I am still learning today on how to improve my pictures. Here is some advice. ;)
 
