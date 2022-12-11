@@ -3,7 +3,7 @@
     <div id="bottom_social">
       {{ range sort .Site.Menus.social ".Weight" }}
         <a href="{{ .URL }}" title="{{ .Name }}">
-          <span>{{ .Pre }}</span>
+          {{ .Pre }}
         </a>
       {{ end }}
     </div>
