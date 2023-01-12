@@ -9,7 +9,6 @@ categories:
   - Learn Japanese
   - Travel Advice
   - 日本語で
-video_url:
-draft: true
+video_url: 
 ---
 
